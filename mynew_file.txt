@@ -4,4 +4,4 @@ hi this a new change
 lets push one more change
 
 
-committing a remote chnages
+committing a remote chnage
