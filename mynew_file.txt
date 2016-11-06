@@ -2,3 +2,6 @@ Hello this is a new text file I want to create in branches
 hi this a new change
 
 lets push one more change
+
+
+committing a remote chnages
